@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SMESP52(950)">
+    <display-name lang="es">SMESP52(950)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/84417/s84417_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP51(951)">
+    <display-name lang="es">SMESP51(951)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/84416/s84416_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP57(952)">
+    <display-name lang="es">SMESP57(952)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88770/s88770_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP02(953)">
+    <display-name lang="es">SMESP02(953)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76978/s76978_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP01(954)">
+    <display-name lang="es">SMESP01(954)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76977/s76977_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP09(955)">
+    <display-name lang="es">SMESP09(955)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76988/s76988_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP71(956)">
+    <display-name lang="es">SMESP71(956)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88784/s88784_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP59(957)">
+    <display-name lang="es">SMESP59(957)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88772/s88772_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP61(958)">
+    <display-name lang="es">SMESP61(958)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88774/s88774_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP10(959)">
+    <display-name lang="es">SMESP10(959)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76990/s76990_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP66(960)">
+    <display-name lang="es">SMESP66(960)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88779/s88779_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP29(961)">
+    <display-name lang="es">SMESP29(961)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77023/s77023_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP27(962)">
+    <display-name lang="es">SMESP27(962)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77025/s77025_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP72(963)">
+    <display-name lang="es">SMESP72(963)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88785/s88785_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP68(964)">
+    <display-name lang="es">SMESP68(964)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88781/s88781_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP56(965)">
+    <display-name lang="es">SMESP56(965)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP23(966)">
+    <display-name lang="es">SMESP23(966)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77008/s77008_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP73(967)">
+    <display-name lang="es">SMESP73(967)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88786/s88786_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP22(968)">
+    <display-name lang="es">SMESP22(968)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77006/s77006_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP20(969)">
+    <display-name lang="es">SMESP20(969)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77002/s77002_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP58(970)">
+    <display-name lang="es">SMESP58(970)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88771/s88771_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP69(971)">
+    <display-name lang="es">SMESP69(971)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88782/s88782_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP54(972)">
+    <display-name lang="es">SMESP54(972)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88767/s88767_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP70(973)">
+    <display-name lang="es">SMESP70(973)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88783/s88783_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP12(974)">
+    <display-name lang="es">SMESP12(974)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76994/s76994_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP63(975)">
+    <display-name lang="es">SMESP63(975)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88776/s88776_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP13(976)">
+    <display-name lang="es">SMESP13(976)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76995/s76995_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP04(977)">
+    <display-name lang="es">SMESP04(977)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76980/s76980_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP64(978)">
+    <display-name lang="es">SMESP64(978)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88778/s88778_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP36(979)">
+    <display-name lang="es">SMESP36(979)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77016/s77016_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+    <channel id="SMESP38(980)">
+    <display-name lang="es">SMESP38(980)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77014/s77014_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP16(981)">
+    <display-name lang="es">SMESP16(981)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76998/s76998_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP67(982)">
+    <display-name lang="es">SMESP67(982)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88780/s88780_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP74(983)">
+    <display-name lang="es">SMESP74(983)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88787/s88787_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP21(984)">
+    <display-name lang="es">SMESP21(984)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77004/s77004_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP30(985)">
+    <display-name lang="es">SMESP30(985)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77022/s77022_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP62(986)">
+    <display-name lang="es">SMESP62(986)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88775/s88775_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP33(987)">
+    <display-name lang="es">SMESP33(987)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77019/s77019_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP41(988)">
+    <display-name lang="es">SMESP41(988)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77009/s77009_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP55(989)">
+    <display-name lang="es">SMESP55(989)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88768/s88768_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP40(990)">
+    <display-name lang="es">SMESP40(990)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77011/s77011_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP44(991)">
+    <display-name lang="es">SMESP44(991)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77003/s77003_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP65(992)">
+    <display-name lang="es">SMESP65(992)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88777/s88777_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP75(993)">
+    <display-name lang="es">SMESP75(993)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88788/s88788_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP60(994)">
+    <display-name lang="es">SMESP60(994)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88773/s88773_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP47(995)">
+    <display-name lang="es">SMESP47(995)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76989/s76989_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP49(996)">
+    <display-name lang="es">SMESP49(996)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76984/s76984_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP48(997)">
+    <display-name lang="es">SMESP48(997)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76986/s76986_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP50(998)">
+    <display-name lang="es">SMESP50(998)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76982/s76982_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="SMESP56(999)">
+    <display-name lang="es">SMESP56(999)</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP52(950)">
+    <title lang="es">Rock en Español</title>
+    <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP52(950)">
+    <title lang="es">Rock en Español</title>
+    <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP52(950)">
+    <title lang="es">Rock en Español</title>
+    <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP52(950)">
+    <title lang="es">Rock en Español</title>
+    <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP52(950)">
+    <title lang="es">Rock en Español</title>
+    <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP52(950)">
+    <title lang="es">Rock en Español</title>
+    <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP52(950)">
+    <title lang="es">Rock en Español</title>
+    <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP51(951)">
+    <title lang="es">Romance Latino</title>
+    <desc lang="es">Los temas y los cantantes que han hecho enamorarse a varias generaciones. Romance Latino es el canal perfecto para disfrutar durante una tarde romántica o simplemente cuando tengas ganas de recordar.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP51(951)">
+    <title lang="es">Romance Latino</title>
+    <desc lang="es">Los temas y los cantantes que han hecho enamorarse a varias generaciones. Romance Latino es el canal perfecto para disfrutar durante una tarde romántica o simplemente cuando tengas ganas de recordar.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP51(951)">
+    <title lang="es">Romance Latino</title>
+    <desc lang="es">Los temas y los cantantes que han hecho enamorarse a varias generaciones. Romance Latino es el canal perfecto para disfrutar durante una tarde romántica o simplemente cuando tengas ganas de recordar.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP51(951)">
+    <title lang="es">Romance Latino</title>
+    <desc lang="es">Los temas y los cantantes que han hecho enamorarse a varias generaciones. Romance Latino es el canal perfecto para disfrutar durante una tarde romántica o simplemente cuando tengas ganas de recordar.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP51(951)">
+    <title lang="es">Romance Latino</title>
+    <desc lang="es">Los temas y los cantantes que han hecho enamorarse a varias generaciones. Romance Latino es el canal perfecto para disfrutar durante una tarde romántica o simplemente cuando tengas ganas de recordar.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP51(951)">
+    <title lang="es">Romance Latino</title>
+    <desc lang="es">Los temas y los cantantes que han hecho enamorarse a varias generaciones. Romance Latino es el canal perfecto para disfrutar durante una tarde romántica o simplemente cuando tengas ganas de recordar.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP51(951)">
+    <title lang="es">Romance Latino</title>
+    <desc lang="es">Los temas y los cantantes que han hecho enamorarse a varias generaciones. Romance Latino es el canal perfecto para disfrutar durante una tarde romántica o simplemente cuando tengas ganas de recordar.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP57(952)">
+    <title lang="es">Exitos del Momento</title>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP57(952)">
+    <title lang="es">Exitos del Momento</title>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP57(952)">
+    <title lang="es">Exitos del Momento</title>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP57(952)">
+    <title lang="es">Exitos del Momento</title>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP57(952)">
+    <title lang="es">Exitos del Momento</title>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP57(952)">
+    <title lang="es">Exitos del Momento</title>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP57(952)">
+    <title lang="es">Exitos del Momento</title>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP02(953)">
+    <title lang="es">Éxitos de Salsa y Merengue</title>
+    <desc lang="es">Baila toda la noche y transpórtate a las playas de Cuba y la República Dominicana.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP02(953)">
+    <title lang="es">Éxitos de Salsa y Merengue</title>
+    <desc lang="es">Baila toda la noche y transpórtate a las playas de Cuba y la República Dominicana.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP02(953)">
+    <title lang="es">Éxitos de Salsa y Merengue</title>
+    <desc lang="es">Baila toda la noche y transpórtate a las playas de Cuba y la República Dominicana.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP02(953)">
+    <title lang="es">Éxitos de Salsa y Merengue</title>
+    <desc lang="es">Baila toda la noche y transpórtate a las playas de Cuba y la República Dominicana.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP02(953)">
+    <title lang="es">Éxitos de Salsa y Merengue</title>
+    <desc lang="es">Baila toda la noche y transpórtate a las playas de Cuba y la República Dominicana.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP02(953)">
+    <title lang="es">Éxitos de Salsa y Merengue</title>
+    <desc lang="es">Baila toda la noche y transpórtate a las playas de Cuba y la República Dominicana.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP02(953)">
+    <title lang="es">Éxitos de Salsa y Merengue</title>
+    <desc lang="es">Baila toda la noche y transpórtate a las playas de Cuba y la República Dominicana.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP01(954)">
+    <title lang="es">Stingray Éxitos Tropicales</title>
+    <desc lang="es">La salsa más caliente, rumba y canciones tropicales.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP01(954)">
+    <title lang="es">Stingray Éxitos Tropicales</title>
+    <desc lang="es">La salsa más caliente, rumba y canciones tropicales.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP01(954)">
+    <title lang="es">Stingray Éxitos Tropicales</title>
+    <desc lang="es">La salsa más caliente, rumba y canciones tropicales.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP01(954)">
+    <title lang="es">Stingray Éxitos Tropicales</title>
+    <desc lang="es">La salsa más caliente, rumba y canciones tropicales.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP01(954)">
+    <title lang="es">Stingray Éxitos Tropicales</title>
+    <desc lang="es">La salsa más caliente, rumba y canciones tropicales.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP01(954)">
+    <title lang="es">Stingray Éxitos Tropicales</title>
+    <desc lang="es">La salsa más caliente, rumba y canciones tropicales.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP01(954)">
+    <title lang="es">Stingray Éxitos Tropicales</title>
+    <desc lang="es">La salsa más caliente, rumba y canciones tropicales.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP09(955)">
+    <title lang="es">Stingray viva México</title>
+    <desc lang="es">Lo mejor de una música con muchos estilos como son banda, ranchera, mariachi y norteña. Un amplio rango de gustos a través de la frontera y del oeste de los Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP09(955)">
+    <title lang="es">Stingray viva México</title>
+    <desc lang="es">Lo mejor de una música con muchos estilos como son banda, ranchera, mariachi y norteña. Un amplio rango de gustos a través de la frontera y del oeste de los Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP09(955)">
+    <title lang="es">Stingray viva México</title>
+    <desc lang="es">Lo mejor de una música con muchos estilos como son banda, ranchera, mariachi y norteña. Un amplio rango de gustos a través de la frontera y del oeste de los Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP09(955)">
+    <title lang="es">Stingray viva México</title>
+    <desc lang="es">Lo mejor de una música con muchos estilos como son banda, ranchera, mariachi y norteña. Un amplio rango de gustos a través de la frontera y del oeste de los Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP09(955)">
+    <title lang="es">Stingray viva México</title>
+    <desc lang="es">Lo mejor de una música con muchos estilos como son banda, ranchera, mariachi y norteña. Un amplio rango de gustos a través de la frontera y del oeste de los Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP09(955)">
+    <title lang="es">Stingray viva México</title>
+    <desc lang="es">Lo mejor de una música con muchos estilos como son banda, ranchera, mariachi y norteña. Un amplio rango de gustos a través de la frontera y del oeste de los Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP09(955)">
+    <title lang="es">Stingray viva México</title>
+    <desc lang="es">Lo mejor de una música con muchos estilos como son banda, ranchera, mariachi y norteña. Un amplio rango de gustos a través de la frontera y del oeste de los Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP71(956)">
+    <title lang="es">Mariachi Para Siempre</title>
+    <desc lang="es">Este canal es el compendio fundamental de lo que representa la música de Mariachi. Este canal reúne una amplia colección de estilos de Mariachi en México, con sus propios ritmos distintivos y sus voces vigorosas.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP71(956)">
+    <title lang="es">Mariachi Para Siempre</title>
+    <desc lang="es">Este canal es el compendio fundamental de lo que representa la música de Mariachi. Este canal reúne una amplia colección de estilos de Mariachi en México, con sus propios ritmos distintivos y sus voces vigorosas.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP71(956)">
+    <title lang="es">Mariachi Para Siempre</title>
+    <desc lang="es">Este canal es el compendio fundamental de lo que representa la música de Mariachi. Este canal reúne una amplia colección de estilos de Mariachi en México, con sus propios ritmos distintivos y sus voces vigorosas.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP71(956)">
+    <title lang="es">Mariachi Para Siempre</title>
+    <desc lang="es">Este canal es el compendio fundamental de lo que representa la música de Mariachi. Este canal reúne una amplia colección de estilos de Mariachi en México, con sus propios ritmos distintivos y sus voces vigorosas.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP71(956)">
+    <title lang="es">Mariachi Para Siempre</title>
+    <desc lang="es">Este canal es el compendio fundamental de lo que representa la música de Mariachi. Este canal reúne una amplia colección de estilos de Mariachi en México, con sus propios ritmos distintivos y sus voces vigorosas.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP71(956)">
+    <title lang="es">Mariachi Para Siempre</title>
+    <desc lang="es">Este canal es el compendio fundamental de lo que representa la música de Mariachi. Este canal reúne una amplia colección de estilos de Mariachi en México, con sus propios ritmos distintivos y sus voces vigorosas.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP71(956)">
+    <title lang="es">Mariachi Para Siempre</title>
+    <desc lang="es">Este canal es el compendio fundamental de lo que representa la música de Mariachi. Este canal reúne una amplia colección de estilos de Mariachi en México, con sus propios ritmos distintivos y sus voces vigorosas.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP59(957)">
+    <title lang="es">Samba y Pagode</title>
+    <desc lang="es">Haz tu fiesta Brasileña al ritmo de la Samba y el Pagode.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP59(957)">
+    <title lang="es">Samba y Pagode</title>
+    <desc lang="es">Haz tu fiesta Brasileña al ritmo de la Samba y el Pagode.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP59(957)">
+    <title lang="es">Samba y Pagode</title>
+    <desc lang="es">Haz tu fiesta Brasileña al ritmo de la Samba y el Pagode.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP59(957)">
+    <title lang="es">Samba y Pagode</title>
+    <desc lang="es">Haz tu fiesta Brasileña al ritmo de la Samba y el Pagode.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP59(957)">
+    <title lang="es">Samba y Pagode</title>
+    <desc lang="es">Haz tu fiesta Brasileña al ritmo de la Samba y el Pagode.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP59(957)">
+    <title lang="es">Samba y Pagode</title>
+    <desc lang="es">Haz tu fiesta Brasileña al ritmo de la Samba y el Pagode.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP59(957)">
+    <title lang="es">Samba y Pagode</title>
+    <desc lang="es">Haz tu fiesta Brasileña al ritmo de la Samba y el Pagode.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP61(958)">
+    <title lang="es">Latin Lounge</title>
+    <desc lang="es">Disfruta de los sofisticados sonidos y el ambiente relajado que crea este canal mientras celebras los placeres de la vida. Ponte cómodo y únete a la fiesta.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP61(958)">
+    <title lang="es">Latin Lounge</title>
+    <desc lang="es">Disfruta de los sofisticados sonidos y el ambiente relajado que crea este canal mientras celebras los placeres de la vida. Ponte cómodo y únete a la fiesta.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP61(958)">
+    <title lang="es">Latin Lounge</title>
+    <desc lang="es">Disfruta de los sofisticados sonidos y el ambiente relajado que crea este canal mientras celebras los placeres de la vida. Ponte cómodo y únete a la fiesta.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP61(958)">
+    <title lang="es">Latin Lounge</title>
+    <desc lang="es">Disfruta de los sofisticados sonidos y el ambiente relajado que crea este canal mientras celebras los placeres de la vida. Ponte cómodo y únete a la fiesta.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP61(958)">
+    <title lang="es">Latin Lounge</title>
+    <desc lang="es">Disfruta de los sofisticados sonidos y el ambiente relajado que crea este canal mientras celebras los placeres de la vida. Ponte cómodo y únete a la fiesta.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP61(958)">
+    <title lang="es">Latin Lounge</title>
+    <desc lang="es">Disfruta de los sofisticados sonidos y el ambiente relajado que crea este canal mientras celebras los placeres de la vida. Ponte cómodo y únete a la fiesta.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP61(958)">
+    <title lang="es">Latin Lounge</title>
+    <desc lang="es">Disfruta de los sofisticados sonidos y el ambiente relajado que crea este canal mientras celebras los placeres de la vida. Ponte cómodo y únete a la fiesta.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP10(959)">
+    <title lang="es">TikTok Radio</title>
+    <desc lang="es">Un programa que mantiene al tanto de las listas musicales de TikTok y descubre un mundo completamente nuevo de talentos y tendencias emergentes.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP10(959)">
+    <title lang="es">TikTok Radio</title>
+    <desc lang="es">Un programa que mantiene al tanto de las listas musicales de TikTok y descubre un mundo completamente nuevo de talentos y tendencias emergentes.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP10(959)">
+    <title lang="es">TikTok Radio</title>
+    <desc lang="es">Un programa que mantiene al tanto de las listas musicales de TikTok y descubre un mundo completamente nuevo de talentos y tendencias emergentes.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP10(959)">
+    <title lang="es">TikTok Radio</title>
+    <desc lang="es">Un programa que mantiene al tanto de las listas musicales de TikTok y descubre un mundo completamente nuevo de talentos y tendencias emergentes.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP10(959)">
+    <title lang="es">TikTok Radio</title>
+    <desc lang="es">Un programa que mantiene al tanto de las listas musicales de TikTok y descubre un mundo completamente nuevo de talentos y tendencias emergentes.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP10(959)">
+    <title lang="es">TikTok Radio</title>
+    <desc lang="es">Un programa que mantiene al tanto de las listas musicales de TikTok y descubre un mundo completamente nuevo de talentos y tendencias emergentes.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP10(959)">
+    <title lang="es">TikTok Radio</title>
+    <desc lang="es">Un programa que mantiene al tanto de las listas musicales de TikTok y descubre un mundo completamente nuevo de talentos y tendencias emergentes.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP66(960)">
+    <title lang="es">Stingray himnos del rock</title>
+    <desc lang="es">De Aerosmith a ZZ Top... Aquí están los himnos que llenan estadios. Tanto para ávidos fanáticos de los conciertos en vivo, como para los que rockean en su sillón, esta es la mejor colección de rock imaginable y sin interrupciones.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP66(960)">
+    <title lang="es">Stingray himnos del rock</title>
+    <desc lang="es">De Aerosmith a ZZ Top... Aquí están los himnos que llenan estadios. Tanto para ávidos fanáticos de los conciertos en vivo, como para los que rockean en su sillón, esta es la mejor colección de rock imaginable y sin interrupciones.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP66(960)">
+    <title lang="es">Stingray himnos del rock</title>
+    <desc lang="es">De Aerosmith a ZZ Top... Aquí están los himnos que llenan estadios. Tanto para ávidos fanáticos de los conciertos en vivo, como para los que rockean en su sillón, esta es la mejor colección de rock imaginable y sin interrupciones.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP66(960)">
+    <title lang="es">Stingray himnos del rock</title>
+    <desc lang="es">De Aerosmith a ZZ Top... Aquí están los himnos que llenan estadios. Tanto para ávidos fanáticos de los conciertos en vivo, como para los que rockean en su sillón, esta es la mejor colección de rock imaginable y sin interrupciones.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP66(960)">
+    <title lang="es">Stingray himnos del rock</title>
+    <desc lang="es">De Aerosmith a ZZ Top... Aquí están los himnos que llenan estadios. Tanto para ávidos fanáticos de los conciertos en vivo, como para los que rockean en su sillón, esta es la mejor colección de rock imaginable y sin interrupciones.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP66(960)">
+    <title lang="es">Stingray himnos del rock</title>
+    <desc lang="es">De Aerosmith a ZZ Top... Aquí están los himnos que llenan estadios. Tanto para ávidos fanáticos de los conciertos en vivo, como para los que rockean en su sillón, esta es la mejor colección de rock imaginable y sin interrupciones.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP66(960)">
+    <title lang="es">Stingray himnos del rock</title>
+    <desc lang="es">De Aerosmith a ZZ Top... Aquí están los himnos que llenan estadios. Tanto para ávidos fanáticos de los conciertos en vivo, como para los que rockean en su sillón, esta es la mejor colección de rock imaginable y sin interrupciones.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP29(961)">
+    <title lang="es">Stingray años 70</title>
+    <desc lang="es">Aquí ganamos todos: amantes del rock, del baile o de la canción romántica. ¡Deja que este canal te devuelva a la era de la pompa y el glamour!(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP29(961)">
+    <title lang="es">Stingray años 70</title>
+    <desc lang="es">Aquí ganamos todos: amantes del rock, del baile o de la canción romántica. ¡Deja que este canal te devuelva a la era de la pompa y el glamour!(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP29(961)">
+    <title lang="es">Stingray años 70</title>
+    <desc lang="es">Aquí ganamos todos: amantes del rock, del baile o de la canción romántica. ¡Deja que este canal te devuelva a la era de la pompa y el glamour!(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP29(961)">
+    <title lang="es">Stingray años 70</title>
+    <desc lang="es">Aquí ganamos todos: amantes del rock, del baile o de la canción romántica. ¡Deja que este canal te devuelva a la era de la pompa y el glamour!(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP29(961)">
+    <title lang="es">Stingray años 70</title>
+    <desc lang="es">Aquí ganamos todos: amantes del rock, del baile o de la canción romántica. ¡Deja que este canal te devuelva a la era de la pompa y el glamour!(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP29(961)">
+    <title lang="es">Stingray años 70</title>
+    <desc lang="es">Aquí ganamos todos: amantes del rock, del baile o de la canción romántica. ¡Deja que este canal te devuelva a la era de la pompa y el glamour!(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP29(961)">
+    <title lang="es">Stingray años 70</title>
+    <desc lang="es">Aquí ganamos todos: amantes del rock, del baile o de la canción romántica. ¡Deja que este canal te devuelva a la era de la pompa y el glamour!(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP27(962)">
+    <title lang="es">Stingray años 80</title>
+    <desc lang="es">Sube el volumen con la música de nuestra década favorita. ¡Este canal es para que te muevas! Un viaje de vuelta a los días de hombreras y cabello voluminoso.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP27(962)">
+    <title lang="es">Stingray años 80</title>
+    <desc lang="es">Sube el volumen con la música de nuestra década favorita. ¡Este canal es para que te muevas! Un viaje de vuelta a los días de hombreras y cabello voluminoso.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP27(962)">
+    <title lang="es">Stingray años 80</title>
+    <desc lang="es">Sube el volumen con la música de nuestra década favorita. ¡Este canal es para que te muevas! Un viaje de vuelta a los días de hombreras y cabello voluminoso.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP27(962)">
+    <title lang="es">Stingray años 80</title>
+    <desc lang="es">Sube el volumen con la música de nuestra década favorita. ¡Este canal es para que te muevas! Un viaje de vuelta a los días de hombreras y cabello voluminoso.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP27(962)">
+    <title lang="es">Stingray años 80</title>
+    <desc lang="es">Sube el volumen con la música de nuestra década favorita. ¡Este canal es para que te muevas! Un viaje de vuelta a los días de hombreras y cabello voluminoso.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP27(962)">
+    <title lang="es">Stingray años 80</title>
+    <desc lang="es">Sube el volumen con la música de nuestra década favorita. ¡Este canal es para que te muevas! Un viaje de vuelta a los días de hombreras y cabello voluminoso.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP27(962)">
+    <title lang="es">Stingray años 80</title>
+    <desc lang="es">Sube el volumen con la música de nuestra década favorita. ¡Este canal es para que te muevas! Un viaje de vuelta a los días de hombreras y cabello voluminoso.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP72(963)">
+    <title lang="es">Stingray años 90</title>
+    <desc lang="es">Un recordatorio de los tiempos precedentes al nuevo milenio. Un viaje cuando los pantalones anchos y las camisas de franela estaban de moda. Los tiempos que hicieron de MC Hammer y Nirvana íconos por su propio peso.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP72(963)">
+    <title lang="es">Stingray años 90</title>
+    <desc lang="es">Un recordatorio de los tiempos precedentes al nuevo milenio. Un viaje cuando los pantalones anchos y las camisas de franela estaban de moda. Los tiempos que hicieron de MC Hammer y Nirvana íconos por su propio peso.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP72(963)">
+    <title lang="es">Stingray años 90</title>
+    <desc lang="es">Un recordatorio de los tiempos precedentes al nuevo milenio. Un viaje cuando los pantalones anchos y las camisas de franela estaban de moda. Los tiempos que hicieron de MC Hammer y Nirvana íconos por su propio peso.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP72(963)">
+    <title lang="es">Stingray años 90</title>
+    <desc lang="es">Un recordatorio de los tiempos precedentes al nuevo milenio. Un viaje cuando los pantalones anchos y las camisas de franela estaban de moda. Los tiempos que hicieron de MC Hammer y Nirvana íconos por su propio peso.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP72(963)">
+    <title lang="es">Stingray años 90</title>
+    <desc lang="es">Un recordatorio de los tiempos precedentes al nuevo milenio. Un viaje cuando los pantalones anchos y las camisas de franela estaban de moda. Los tiempos que hicieron de MC Hammer y Nirvana íconos por su propio peso.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP72(963)">
+    <title lang="es">Stingray años 90</title>
+    <desc lang="es">Un recordatorio de los tiempos precedentes al nuevo milenio. Un viaje cuando los pantalones anchos y las camisas de franela estaban de moda. Los tiempos que hicieron de MC Hammer y Nirvana íconos por su propio peso.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP72(963)">
+    <title lang="es">Stingray años 90</title>
+    <desc lang="es">Un recordatorio de los tiempos precedentes al nuevo milenio. Un viaje cuando los pantalones anchos y las camisas de franela estaban de moda. Los tiempos que hicieron de MC Hammer y Nirvana íconos por su propio peso.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP68(964)">
+    <title lang="es">Stingray euro hits</title>
+    <desc lang="es">Disfruta los éxitos más recientes del panorama musical europeo. Disfruta de un canal reluciente de los mejores artistas de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP68(964)">
+    <title lang="es">Stingray euro hits</title>
+    <desc lang="es">Disfruta los éxitos más recientes del panorama musical europeo. Disfruta de un canal reluciente de los mejores artistas de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP68(964)">
+    <title lang="es">Stingray euro hits</title>
+    <desc lang="es">Disfruta los éxitos más recientes del panorama musical europeo. Disfruta de un canal reluciente de los mejores artistas de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP68(964)">
+    <title lang="es">Stingray euro hits</title>
+    <desc lang="es">Disfruta los éxitos más recientes del panorama musical europeo. Disfruta de un canal reluciente de los mejores artistas de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP68(964)">
+    <title lang="es">Stingray euro hits</title>
+    <desc lang="es">Disfruta los éxitos más recientes del panorama musical europeo. Disfruta de un canal reluciente de los mejores artistas de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP68(964)">
+    <title lang="es">Stingray euro hits</title>
+    <desc lang="es">Disfruta los éxitos más recientes del panorama musical europeo. Disfruta de un canal reluciente de los mejores artistas de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP68(964)">
+    <title lang="es">Stingray euro hits</title>
+    <desc lang="es">Disfruta los éxitos más recientes del panorama musical europeo. Disfruta de un canal reluciente de los mejores artistas de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP56(965)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP56(965)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP56(965)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP56(965)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP56(965)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP56(965)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP56(965)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250623200000 +0000" stop="20250624000000 +0000" channel="SMESP23(966)">
+    <title lang="es">Stingray rompepistas</title>
+    <desc lang="es">¿No puedes ir a las discotecas? ¡Nosotros te las traemos! Sin parar, 24 horas al día, los mejores temas dance. Una recopilación de esa energía y entusiasmo de temas presentes en las pistas de baile alrededor de Europa.(n)</desc>
+  </programme>
+  <programme start="20250624000000 +0000" stop="20250624040000 +0000" channel="SMESP23(966)">
+    <title lang="es">Stingray rompepistas</title>
+    <desc lang="es">¿No puedes ir a las discotecas? ¡Nosotros te las traemos! Sin parar, 24 horas al día, los mejores temas dance. Una recopilación de esa energía y entusiasmo de temas presentes en las pistas de baile alrededor de Europa.(n)</desc>
+  </programme>
+  <programme start="20250624040000 +0000" stop="20250624080000 +0000" channel="SMESP23(966)">
+    <title lang="es">Stingray rompepistas</title>
+    <desc lang="es">¿No puedes ir a las discotecas? ¡Nosotros te las traemos! Sin parar, 24 horas al día, los mejores temas dance. Una recopilación de esa energía y entusiasmo de temas presentes en las pistas de baile alrededor de Europa.(n)</desc>
+  </programme>
+  <programme start="20250624080000 +0000" stop="20250624120000 +0000" channel="SMESP23(966)">
+    <title lang="es">Stingray rompepistas</title>
+    <desc lang="es">¿No puedes ir a las discotecas? ¡Nosotros te las traemos! Sin parar, 24 horas al día, los mejores temas dance. Una recopilación de esa energía y entusiasmo de temas presentes en las pistas de baile alrededor de Europa.(n)</desc>
+  </programme>
+  <programme start="20250624120000 +0000" stop="20250624160000 +0000" channel="SMESP23(966)">
+    <title lang="es">Stingray rompepistas</title>
+    <desc lang="es">¿No puedes ir a las discotecas? ¡Nosotros te las traemos! Sin parar, 24 horas al día, los mejores temas dance. Una recopilación de esa energía y entusiasmo de temas presentes en las pistas de baile alrededor de Europa.(n)</desc>
+  </programme>
+  <programme start="20250624160000 +0000" stop="20250624200000 +0000" channel="SMESP23(966)">
+    <title lang="es">Stingray rompepistas</title>
+    <desc lang="es">¿No puedes ir a las discotecas? ¡Nosotros te las traemos! Sin parar, 24 horas al día, los mejores temas dance. Una recopilación de esa energía y entusiasmo de temas presentes en las pistas de baile alrededor de Europa.(n)</desc>
+  </programme>
+  <programme start="20250624200000 +0000" stop="20250625000000 +0000" channel="SMESP23(966)">
+    <title lang="es">Stingray rompepistas</title>
+    <desc lang="es">¿No puedes ir a las discotecas? ¡Nosotros te las traemos! Sin parar, 24 horas al día, los mejores temas dance. Una recopilación de esa energía y entusiasmo de temas presentes en las pistas de baile alrededor de Europa.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP73(967)">
+    <title lang="es">Clásicos del Dance</title>
+    <desc lang="es">Este canal te lleva de vuelta a las pistas de los años 70, 80 y 90, a los clubes con ambiente y gente arrasando en la pista de baile. Aquí encontrarás a artistas como Donna Summers, The Bee Gees, Animotion, Rick Astley y muchos remixes del ayer.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP73(967)">
+    <title lang="es">Clásicos del Dance</title>
+    <desc lang="es">Este canal te lleva de vuelta a las pistas de los años 70, 80 y 90, a los clubes con ambiente y gente arrasando en la pista de baile. Aquí encontrarás a artistas como Donna Summers, The Bee Gees, Animotion, Rick Astley y muchos remixes del ayer.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP73(967)">
+    <title lang="es">Clásicos del Dance</title>
+    <desc lang="es">Este canal te lleva de vuelta a las pistas de los años 70, 80 y 90, a los clubes con ambiente y gente arrasando en la pista de baile. Aquí encontrarás a artistas como Donna Summers, The Bee Gees, Animotion, Rick Astley y muchos remixes del ayer.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP73(967)">
+    <title lang="es">Clásicos del Dance</title>
+    <desc lang="es">Este canal te lleva de vuelta a las pistas de los años 70, 80 y 90, a los clubes con ambiente y gente arrasando en la pista de baile. Aquí encontrarás a artistas como Donna Summers, The Bee Gees, Animotion, Rick Astley y muchos remixes del ayer.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP73(967)">
+    <title lang="es">Clásicos del Dance</title>
+    <desc lang="es">Este canal te lleva de vuelta a las pistas de los años 70, 80 y 90, a los clubes con ambiente y gente arrasando en la pista de baile. Aquí encontrarás a artistas como Donna Summers, The Bee Gees, Animotion, Rick Astley y muchos remixes del ayer.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP73(967)">
+    <title lang="es">Clásicos del Dance</title>
+    <desc lang="es">Este canal te lleva de vuelta a las pistas de los años 70, 80 y 90, a los clubes con ambiente y gente arrasando en la pista de baile. Aquí encontrarás a artistas como Donna Summers, The Bee Gees, Animotion, Rick Astley y muchos remixes del ayer.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP73(967)">
+    <title lang="es">Clásicos del Dance</title>
+    <desc lang="es">Este canal te lleva de vuelta a las pistas de los años 70, 80 y 90, a los clubes con ambiente y gente arrasando en la pista de baile. Aquí encontrarás a artistas como Donna Summers, The Bee Gees, Animotion, Rick Astley y muchos remixes del ayer.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP22(968)">
+    <title lang="es">Club de Baile</title>
+    <desc lang="es">Quédate en casa y deja que el club venga hacia ti. Revive el ritmo y la energía de la escena musical de Nueva York, Londres, Miami Beach o Ibiza, con los éxitos house, techno y trance.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP22(968)">
+    <title lang="es">Club de Baile</title>
+    <desc lang="es">Quédate en casa y deja que el club venga hacia ti. Revive el ritmo y la energía de la escena musical de Nueva York, Londres, Miami Beach o Ibiza, con los éxitos house, techno y trance.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP22(968)">
+    <title lang="es">Club de Baile</title>
+    <desc lang="es">Quédate en casa y deja que el club venga hacia ti. Revive el ritmo y la energía de la escena musical de Nueva York, Londres, Miami Beach o Ibiza, con los éxitos house, techno y trance.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP22(968)">
+    <title lang="es">Club de Baile</title>
+    <desc lang="es">Quédate en casa y deja que el club venga hacia ti. Revive el ritmo y la energía de la escena musical de Nueva York, Londres, Miami Beach o Ibiza, con los éxitos house, techno y trance.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP22(968)">
+    <title lang="es">Club de Baile</title>
+    <desc lang="es">Quédate en casa y deja que el club venga hacia ti. Revive el ritmo y la energía de la escena musical de Nueva York, Londres, Miami Beach o Ibiza, con los éxitos house, techno y trance.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP22(968)">
+    <title lang="es">Club de Baile</title>
+    <desc lang="es">Quédate en casa y deja que el club venga hacia ti. Revive el ritmo y la energía de la escena musical de Nueva York, Londres, Miami Beach o Ibiza, con los éxitos house, techno y trance.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP22(968)">
+    <title lang="es">Club de Baile</title>
+    <desc lang="es">Quédate en casa y deja que el club venga hacia ti. Revive el ritmo y la energía de la escena musical de Nueva York, Londres, Miami Beach o Ibiza, con los éxitos house, techno y trance.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP20(969)">
+    <title lang="es">Stingray silk (canciones de amor)</title>
+    <desc lang="es">¡A quién le importan las baladas, aquí están las canciones de amor! Casi todas las canciones populares que se han escrito, han sido sobre el amor. Aquí hay una selección de temas sin parar, lo más moderno entre los lamentos de hoy en día.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP20(969)">
+    <title lang="es">Stingray silk (canciones de amor)</title>
+    <desc lang="es">¡A quién le importan las baladas, aquí están las canciones de amor! Casi todas las canciones populares que se han escrito, han sido sobre el amor. Aquí hay una selección de temas sin parar, lo más moderno entre los lamentos de hoy en día.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP20(969)">
+    <title lang="es">Stingray silk (canciones de amor)</title>
+    <desc lang="es">¡A quién le importan las baladas, aquí están las canciones de amor! Casi todas las canciones populares que se han escrito, han sido sobre el amor. Aquí hay una selección de temas sin parar, lo más moderno entre los lamentos de hoy en día.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP20(969)">
+    <title lang="es">Stingray silk (canciones de amor)</title>
+    <desc lang="es">¡A quién le importan las baladas, aquí están las canciones de amor! Casi todas las canciones populares que se han escrito, han sido sobre el amor. Aquí hay una selección de temas sin parar, lo más moderno entre los lamentos de hoy en día.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP20(969)">
+    <title lang="es">Stingray silk (canciones de amor)</title>
+    <desc lang="es">¡A quién le importan las baladas, aquí están las canciones de amor! Casi todas las canciones populares que se han escrito, han sido sobre el amor. Aquí hay una selección de temas sin parar, lo más moderno entre los lamentos de hoy en día.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP20(969)">
+    <title lang="es">Stingray silk (canciones de amor)</title>
+    <desc lang="es">¡A quién le importan las baladas, aquí están las canciones de amor! Casi todas las canciones populares que se han escrito, han sido sobre el amor. Aquí hay una selección de temas sin parar, lo más moderno entre los lamentos de hoy en día.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP20(969)">
+    <title lang="es">Stingray silk (canciones de amor)</title>
+    <desc lang="es">¡A quién le importan las baladas, aquí están las canciones de amor! Casi todas las canciones populares que se han escrito, han sido sobre el amor. Aquí hay una selección de temas sin parar, lo más moderno entre los lamentos de hoy en día.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP58(970)">
+    <title lang="es">Éxitos de las Américas</title>
+    <desc lang="es">Los mejores sonidos de las Américas, de hoy en día: Norte, Sur y Centro. Este canal presenta lo más selecto de los éxitos latinos y en inglés. Una amalgama de música que es contemporánea, espiritual y ecléctica.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP58(970)">
+    <title lang="es">Éxitos de las Américas</title>
+    <desc lang="es">Los mejores sonidos de las Américas, de hoy en día: Norte, Sur y Centro. Este canal presenta lo más selecto de los éxitos latinos y en inglés. Una amalgama de música que es contemporánea, espiritual y ecléctica.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP58(970)">
+    <title lang="es">Éxitos de las Américas</title>
+    <desc lang="es">Los mejores sonidos de las Américas, de hoy en día: Norte, Sur y Centro. Este canal presenta lo más selecto de los éxitos latinos y en inglés. Una amalgama de música que es contemporánea, espiritual y ecléctica.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP58(970)">
+    <title lang="es">Éxitos de las Américas</title>
+    <desc lang="es">Los mejores sonidos de las Américas, de hoy en día: Norte, Sur y Centro. Este canal presenta lo más selecto de los éxitos latinos y en inglés. Una amalgama de música que es contemporánea, espiritual y ecléctica.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP58(970)">
+    <title lang="es">Éxitos de las Américas</title>
+    <desc lang="es">Los mejores sonidos de las Américas, de hoy en día: Norte, Sur y Centro. Este canal presenta lo más selecto de los éxitos latinos y en inglés. Una amalgama de música que es contemporánea, espiritual y ecléctica.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP58(970)">
+    <title lang="es">Éxitos de las Américas</title>
+    <desc lang="es">Los mejores sonidos de las Américas, de hoy en día: Norte, Sur y Centro. Este canal presenta lo más selecto de los éxitos latinos y en inglés. Una amalgama de música que es contemporánea, espiritual y ecléctica.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP58(970)">
+    <title lang="es">Éxitos de las Américas</title>
+    <desc lang="es">Los mejores sonidos de las Américas, de hoy en día: Norte, Sur y Centro. Este canal presenta lo más selecto de los éxitos latinos y en inglés. Una amalgama de música que es contemporánea, espiritual y ecléctica.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP69(971)">
+    <title lang="es">Sesiones Dancehall</title>
+    <desc lang="es">Durante los comienzos de los años ochenta, cuando los DJs eran los reyes y los cantantes eran los príncipes, la música dancehall arrasó en Jamaica y luego en todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP69(971)">
+    <title lang="es">Sesiones Dancehall</title>
+    <desc lang="es">Durante los comienzos de los años ochenta, cuando los DJs eran los reyes y los cantantes eran los príncipes, la música dancehall arrasó en Jamaica y luego en todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP69(971)">
+    <title lang="es">Sesiones Dancehall</title>
+    <desc lang="es">Durante los comienzos de los años ochenta, cuando los DJs eran los reyes y los cantantes eran los príncipes, la música dancehall arrasó en Jamaica y luego en todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP69(971)">
+    <title lang="es">Sesiones Dancehall</title>
+    <desc lang="es">Durante los comienzos de los años ochenta, cuando los DJs eran los reyes y los cantantes eran los príncipes, la música dancehall arrasó en Jamaica y luego en todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP69(971)">
+    <title lang="es">Sesiones Dancehall</title>
+    <desc lang="es">Durante los comienzos de los años ochenta, cuando los DJs eran los reyes y los cantantes eran los príncipes, la música dancehall arrasó en Jamaica y luego en todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP69(971)">
+    <title lang="es">Sesiones Dancehall</title>
+    <desc lang="es">Durante los comienzos de los años ochenta, cuando los DJs eran los reyes y los cantantes eran los príncipes, la música dancehall arrasó en Jamaica y luego en todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP69(971)">
+    <title lang="es">Sesiones Dancehall</title>
+    <desc lang="es">Durante los comienzos de los años ochenta, cuando los DJs eran los reyes y los cantantes eran los príncipes, la música dancehall arrasó en Jamaica y luego en todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP54(972)">
+    <title lang="es">Música Popular Brasileira</title>
+    <desc lang="es">Sonidos suaves procedentes de Brasil. El canal ofrece una mezcla sensual de Música Popular Brasilera, con artistas que van de la bossa-nova de los años 60 a la actual generación de artistas Nueva MPB.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP54(972)">
+    <title lang="es">Música Popular Brasileira</title>
+    <desc lang="es">Sonidos suaves procedentes de Brasil. El canal ofrece una mezcla sensual de Música Popular Brasilera, con artistas que van de la bossa-nova de los años 60 a la actual generación de artistas Nueva MPB.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP54(972)">
+    <title lang="es">Música Popular Brasileira</title>
+    <desc lang="es">Sonidos suaves procedentes de Brasil. El canal ofrece una mezcla sensual de Música Popular Brasilera, con artistas que van de la bossa-nova de los años 60 a la actual generación de artistas Nueva MPB.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP54(972)">
+    <title lang="es">Música Popular Brasileira</title>
+    <desc lang="es">Sonidos suaves procedentes de Brasil. El canal ofrece una mezcla sensual de Música Popular Brasilera, con artistas que van de la bossa-nova de los años 60 a la actual generación de artistas Nueva MPB.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP54(972)">
+    <title lang="es">Música Popular Brasileira</title>
+    <desc lang="es">Sonidos suaves procedentes de Brasil. El canal ofrece una mezcla sensual de Música Popular Brasilera, con artistas que van de la bossa-nova de los años 60 a la actual generación de artistas Nueva MPB.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP54(972)">
+    <title lang="es">Música Popular Brasileira</title>
+    <desc lang="es">Sonidos suaves procedentes de Brasil. El canal ofrece una mezcla sensual de Música Popular Brasilera, con artistas que van de la bossa-nova de los años 60 a la actual generación de artistas Nueva MPB.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP54(972)">
+    <title lang="es">Música Popular Brasileira</title>
+    <desc lang="es">Sonidos suaves procedentes de Brasil. El canal ofrece una mezcla sensual de Música Popular Brasilera, con artistas que van de la bossa-nova de los años 60 a la actual generación de artistas Nueva MPB.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP70(973)">
+    <title lang="es">Tango</title>
+    <desc lang="es">Nacido como una mezcla entre el ritmo incesante de los tambores africanos y la música de los primeros colonizadores españoles. Su nombre proviene del término "tangere" que en latín significa (tocar).(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP70(973)">
+    <title lang="es">Tango</title>
+    <desc lang="es">Nacido como una mezcla entre el ritmo incesante de los tambores africanos y la música de los primeros colonizadores españoles. Su nombre proviene del término "tangere" que en latín significa (tocar).(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP70(973)">
+    <title lang="es">Tango</title>
+    <desc lang="es">Nacido como una mezcla entre el ritmo incesante de los tambores africanos y la música de los primeros colonizadores españoles. Su nombre proviene del término "tangere" que en latín significa (tocar).(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP70(973)">
+    <title lang="es">Tango</title>
+    <desc lang="es">Nacido como una mezcla entre el ritmo incesante de los tambores africanos y la música de los primeros colonizadores españoles. Su nombre proviene del término "tangere" que en latín significa (tocar).(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP70(973)">
+    <title lang="es">Tango</title>
+    <desc lang="es">Nacido como una mezcla entre el ritmo incesante de los tambores africanos y la música de los primeros colonizadores españoles. Su nombre proviene del término "tangere" que en latín significa (tocar).(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP70(973)">
+    <title lang="es">Tango</title>
+    <desc lang="es">Nacido como una mezcla entre el ritmo incesante de los tambores africanos y la música de los primeros colonizadores españoles. Su nombre proviene del término "tangere" que en latín significa (tocar).(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP70(973)">
+    <title lang="es">Tango</title>
+    <desc lang="es">Nacido como una mezcla entre el ritmo incesante de los tambores africanos y la música de los primeros colonizadores españoles. Su nombre proviene del término "tangere" que en latín significa (tocar).(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP12(974)">
+    <title lang="es">Música del Mundo</title>
+    <desc lang="es">Deja que Galaxie te lleve en un viaje musical por todo el mundo. Visitaremos cada continente y exploraremos las tradiciones culturales de todos los rincones del planeta. De Sudamérica y África, hasta Asia y Europa del Este.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP12(974)">
+    <title lang="es">Música del Mundo</title>
+    <desc lang="es">Deja que Galaxie te lleve en un viaje musical por todo el mundo. Visitaremos cada continente y exploraremos las tradiciones culturales de todos los rincones del planeta. De Sudamérica y África, hasta Asia y Europa del Este.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP12(974)">
+    <title lang="es">Música del Mundo</title>
+    <desc lang="es">Deja que Galaxie te lleve en un viaje musical por todo el mundo. Visitaremos cada continente y exploraremos las tradiciones culturales de todos los rincones del planeta. De Sudamérica y África, hasta Asia y Europa del Este.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP12(974)">
+    <title lang="es">Música del Mundo</title>
+    <desc lang="es">Deja que Galaxie te lleve en un viaje musical por todo el mundo. Visitaremos cada continente y exploraremos las tradiciones culturales de todos los rincones del planeta. De Sudamérica y África, hasta Asia y Europa del Este.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP12(974)">
+    <title lang="es">Música del Mundo</title>
+    <desc lang="es">Deja que Galaxie te lleve en un viaje musical por todo el mundo. Visitaremos cada continente y exploraremos las tradiciones culturales de todos los rincones del planeta. De Sudamérica y África, hasta Asia y Europa del Este.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP12(974)">
+    <title lang="es">Música del Mundo</title>
+    <desc lang="es">Deja que Galaxie te lleve en un viaje musical por todo el mundo. Visitaremos cada continente y exploraremos las tradiciones culturales de todos los rincones del planeta. De Sudamérica y África, hasta Asia y Europa del Este.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP12(974)">
+    <title lang="es">Música del Mundo</title>
+    <desc lang="es">Deja que Galaxie te lleve en un viaje musical por todo el mundo. Visitaremos cada continente y exploraremos las tradiciones culturales de todos los rincones del planeta. De Sudamérica y África, hasta Asia y Europa del Este.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP63(975)">
+    <title lang="es">Éxitos de Italia</title>
+    <desc lang="es">Temazos llegados de Italia. Comprueba qué es lo más popular en el país del lenguaje del amor. Escucha solo lo mejor de las listas de éxitos con un sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP63(975)">
+    <title lang="es">Éxitos de Italia</title>
+    <desc lang="es">Temazos llegados de Italia. Comprueba qué es lo más popular en el país del lenguaje del amor. Escucha solo lo mejor de las listas de éxitos con un sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP63(975)">
+    <title lang="es">Éxitos de Italia</title>
+    <desc lang="es">Temazos llegados de Italia. Comprueba qué es lo más popular en el país del lenguaje del amor. Escucha solo lo mejor de las listas de éxitos con un sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP63(975)">
+    <title lang="es">Éxitos de Italia</title>
+    <desc lang="es">Temazos llegados de Italia. Comprueba qué es lo más popular en el país del lenguaje del amor. Escucha solo lo mejor de las listas de éxitos con un sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP63(975)">
+    <title lang="es">Éxitos de Italia</title>
+    <desc lang="es">Temazos llegados de Italia. Comprueba qué es lo más popular en el país del lenguaje del amor. Escucha solo lo mejor de las listas de éxitos con un sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP63(975)">
+    <title lang="es">Éxitos de Italia</title>
+    <desc lang="es">Temazos llegados de Italia. Comprueba qué es lo más popular en el país del lenguaje del amor. Escucha solo lo mejor de las listas de éxitos con un sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP63(975)">
+    <title lang="es">Éxitos de Italia</title>
+    <desc lang="es">Temazos llegados de Italia. Comprueba qué es lo más popular en el país del lenguaje del amor. Escucha solo lo mejor de las listas de éxitos con un sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP13(976)">
+    <title lang="es">Stingray éxitos recientes</title>
+    <desc lang="es">Obtén lo último y lo mejor de los éxitos del momento. La lista de éxitos recientes tiene solo lo bueno. Aquí podrás encontrar los éxitos de hoy, y los de mañana. ¡Así es, sabemos lo que será un éxito con anticipación!(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP13(976)">
+    <title lang="es">Stingray éxitos recientes</title>
+    <desc lang="es">Obtén lo último y lo mejor de los éxitos del momento. La lista de éxitos recientes tiene solo lo bueno. Aquí podrás encontrar los éxitos de hoy, y los de mañana. ¡Así es, sabemos lo que será un éxito con anticipación!(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP13(976)">
+    <title lang="es">Stingray éxitos recientes</title>
+    <desc lang="es">Obtén lo último y lo mejor de los éxitos del momento. La lista de éxitos recientes tiene solo lo bueno. Aquí podrás encontrar los éxitos de hoy, y los de mañana. ¡Así es, sabemos lo que será un éxito con anticipación!(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP13(976)">
+    <title lang="es">Stingray éxitos recientes</title>
+    <desc lang="es">Obtén lo último y lo mejor de los éxitos del momento. La lista de éxitos recientes tiene solo lo bueno. Aquí podrás encontrar los éxitos de hoy, y los de mañana. ¡Así es, sabemos lo que será un éxito con anticipación!(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP13(976)">
+    <title lang="es">Stingray éxitos recientes</title>
+    <desc lang="es">Obtén lo último y lo mejor de los éxitos del momento. La lista de éxitos recientes tiene solo lo bueno. Aquí podrás encontrar los éxitos de hoy, y los de mañana. ¡Así es, sabemos lo que será un éxito con anticipación!(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP13(976)">
+    <title lang="es">Stingray éxitos recientes</title>
+    <desc lang="es">Obtén lo último y lo mejor de los éxitos del momento. La lista de éxitos recientes tiene solo lo bueno. Aquí podrás encontrar los éxitos de hoy, y los de mañana. ¡Así es, sabemos lo que será un éxito con anticipación!(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP13(976)">
+    <title lang="es">Stingray éxitos recientes</title>
+    <desc lang="es">Obtén lo último y lo mejor de los éxitos del momento. La lista de éxitos recientes tiene solo lo bueno. Aquí podrás encontrar los éxitos de hoy, y los de mañana. ¡Así es, sabemos lo que será un éxito con anticipación!(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP04(977)">
+    <title lang="es">Reggaeton</title>
+    <desc lang="es">Toda la potencia de los sonidos y ritmos del Reggaetón urbano. El sonido latino que unió el hip hop con el reggae, hoy en día un sonido urbano global.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP04(977)">
+    <title lang="es">Reggaeton</title>
+    <desc lang="es">Toda la potencia de los sonidos y ritmos del Reggaetón urbano. El sonido latino que unió el hip hop con el reggae, hoy en día un sonido urbano global.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP04(977)">
+    <title lang="es">Reggaeton</title>
+    <desc lang="es">Toda la potencia de los sonidos y ritmos del Reggaetón urbano. El sonido latino que unió el hip hop con el reggae, hoy en día un sonido urbano global.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP04(977)">
+    <title lang="es">Reggaeton</title>
+    <desc lang="es">Toda la potencia de los sonidos y ritmos del Reggaetón urbano. El sonido latino que unió el hip hop con el reggae, hoy en día un sonido urbano global.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP04(977)">
+    <title lang="es">Reggaeton</title>
+    <desc lang="es">Toda la potencia de los sonidos y ritmos del Reggaetón urbano. El sonido latino que unió el hip hop con el reggae, hoy en día un sonido urbano global.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP04(977)">
+    <title lang="es">Reggaeton</title>
+    <desc lang="es">Toda la potencia de los sonidos y ritmos del Reggaetón urbano. El sonido latino que unió el hip hop con el reggae, hoy en día un sonido urbano global.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP04(977)">
+    <title lang="es">Reggaeton</title>
+    <desc lang="es">Toda la potencia de los sonidos y ritmos del Reggaetón urbano. El sonido latino que unió el hip hop con el reggae, hoy en día un sonido urbano global.(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP64(978)">
+    <title lang="es">Stingray clásicos del soul y el rhythm and blues</title>
+    <desc lang="es">Motown, Stax, Philly y mucho más, los temas más movidos de la época dorada del soul. ¡Un espectro completo de la música soul para que te muevas!(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP64(978)">
+    <title lang="es">Stingray clásicos del soul y el rhythm and blues</title>
+    <desc lang="es">Motown, Stax, Philly y mucho más, los temas más movidos de la época dorada del soul. ¡Un espectro completo de la música soul para que te muevas!(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP64(978)">
+    <title lang="es">Stingray clásicos del soul y el rhythm and blues</title>
+    <desc lang="es">Motown, Stax, Philly y mucho más, los temas más movidos de la época dorada del soul. ¡Un espectro completo de la música soul para que te muevas!(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP64(978)">
+    <title lang="es">Stingray clásicos del soul y el rhythm and blues</title>
+    <desc lang="es">Motown, Stax, Philly y mucho más, los temas más movidos de la época dorada del soul. ¡Un espectro completo de la música soul para que te muevas!(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP64(978)">
+    <title lang="es">Stingray clásicos del soul y el rhythm and blues</title>
+    <desc lang="es">Motown, Stax, Philly y mucho más, los temas más movidos de la época dorada del soul. ¡Un espectro completo de la música soul para que te muevas!(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP64(978)">
+    <title lang="es">Stingray clásicos del soul y el rhythm and blues</title>
+    <desc lang="es">Motown, Stax, Philly y mucho más, los temas más movidos de la época dorada del soul. ¡Un espectro completo de la música soul para que te muevas!(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP64(978)">
+    <title lang="es">Stingray clásicos del soul y el rhythm and blues</title>
+    <desc lang="es">Motown, Stax, Philly y mucho más, los temas más movidos de la época dorada del soul. ¡Un espectro completo de la música soul para que te muevas!(n)</desc>
+  </programme>
+  <programme start="20250623220000 +0000" stop="20250624020000 +0000" channel="SMESP36(979)">
+    <title lang="es">Stingray hard rock</title>
+    <desc lang="es">Esto está al máximo. Experimenta en su totalidad los sonidos estridentes de guitarra del Rock pesado. Desde los clásicos hasta los grupos que forman la escena actual. Es posible que haya contenido explícito. Se recomienda discreción.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP36(979)">
+    <title lang="es">Stingray hard rock</title>
+    <desc lang="es">Esto está al máximo. Experimenta en su totalidad los sonidos estridentes de guitarra del Rock pesado. Desde los clásicos hasta los grupos que forman la escena actual. Es posible que haya contenido explícito. Se recomienda discreción.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP36(979)">
+    <title lang="es">Stingray hard rock</title>
+    <desc lang="es">Esto está al máximo. Experimenta en su totalidad los sonidos estridentes de guitarra del Rock pesado. Desde los clásicos hasta los grupos que forman la escena actual. Es posible que haya contenido explícito. Se recomienda discreción.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP36(979)">
+    <title lang="es">Stingray hard rock</title>
+    <desc lang="es">Esto está al máximo. Experimenta en su totalidad los sonidos estridentes de guitarra del Rock pesado. Desde los clásicos hasta los grupos que forman la escena actual. Es posible que haya contenido explícito. Se recomienda discreción.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP36(979)">
+    <title lang="es">Stingray hard rock</title>
+    <desc lang="es">Esto está al máximo. Experimenta en su totalidad los sonidos estridentes de guitarra del Rock pesado. Desde los clásicos hasta los grupos que forman la escena actual. Es posible que haya contenido explícito. Se recomienda discreción.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP36(979)">
+    <title lang="es">Stingray hard rock</title>
+    <desc lang="es">Esto está al máximo. Experimenta en su totalidad los sonidos estridentes de guitarra del Rock pesado. Desde los clásicos hasta los grupos que forman la escena actual. Es posible que haya contenido explícito. Se recomienda discreción.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP36(979)">
+    <title lang="es">Stingray hard rock</title>
+    <desc lang="es">Esto está al máximo. Experimenta en su totalidad los sonidos estridentes de guitarra del Rock pesado. Desde los clásicos hasta los grupos que forman la escena actual. Es posible que haya contenido explícito. Se recomienda discreción.(n)</desc>
+  </programme>
+    <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP38(980)">
+    <title lang="es">El Salón Chill</title>
+    <desc lang="es">Ven y relájate en El Salón Chill. Chillout Lounge. Los sonidos hip y groovy de la música electrónica, trip hop, acid jazz y down tempo. Deja este canal durante todo el día y la noche para crear un ambiente relajante.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP16(981)">
+    <title lang="es">Stingray pop adulto</title>
+    <desc lang="es">Saca a relucir tu naturaleza romántica y sentimental con el mejor pop adulto contemporáneo. Música popular que es a la vez moderna e imperecedera. Descubre nuevas canciones y artistas de este género popular y redescubre tus antiguos temas favoritos.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP67(982)">
+    <title lang="es">Clásicos Indie</title>
+    <desc lang="es">De los días en que música alternativa quería decir realmente alternativa. Lo más influyente del Punk al Britpop. Para una generación de seguidores y un punto de referencia para el que quiera recorrer la historia del Rock Alternativo.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP74(983)">
+    <title lang="es">Popcorn</title>
+    <desc lang="es">Transpórtate al cine, a esa experiencia de disfrutar solamente los éxitos de las bandas sonoras. Con los éxitos de Hollywood y los clásicos de la pantalla grande.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP21(984)">
+    <title lang="es">Orgullo en movimiento</title>
+    <desc lang="es">Haz que este Mes del Orgullo sea inolvidable con estas pistas de baile que celebran la igualdad, la individualidad y el amor.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP30(985)">
+    <title lang="es">Viejitas pero Buenísimas</title>
+    <desc lang="es">Revive los días que vieron nacer el Rock &amp; Roll con la mejor música de los años 50 y 60: Elvis Presley, Buddy Holly, Chuck Berry, Fats Domino, los Beatles, los Beach Boys y mucho más.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP62(986)">
+    <title lang="es">Sólo Para Peques</title>
+    <desc lang="es">Música instrumental y canciones en español para niños.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP33(987)">
+    <title lang="es">Galaxie Blues</title>
+    <desc lang="es">¡80 años de auténtico Blues! Este canal incluye una variedad del viejo blues con sabor europeo.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP41(988)">
+    <title lang="es">Stingray maestros del jazz</title>
+    <desc lang="es">La contribución de los Estados Unidos a la música moderna. Los maestros del Jazz que dieron forma a este fantástico género musical. Desde Ellington y Gillespie a Miles Davis y cantantes populares como Billie Holiday, Ella Fitzgerald y Frank Sinatra.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP55(989)">
+    <title lang="es">Éxitos de Brasil</title>
+    <desc lang="es">Disfruta solo lo mejor de los éxitos de Brasil. Una amplia selección de sonidos y géneros que están en auge en Brasil. Del Sertanejo a lo romántico, del Pop al Rock, y del Pagode a la Samba.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP40(990)">
+    <title lang="es">Jazz Latino</title>
+    <desc lang="es">Recopilando lo mejor del Jazz latino, la bossa nova y el jazz afro-cubano siempre con un toque de improvisación.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP44(991)">
+    <title lang="es">Stingray New Age</title>
+    <desc lang="es">Cuando todo te parece molesto, ¡prueba algo diferente! Desde temas instrumentales de guitarra hasta música electrónica ambiental. La ausencia de ritmos fuertes en este canal te ponen a salvo de los ritmos agresivos que nos rodean.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP65(992)">
+    <title lang="es">Stingray Big Band</title>
+    <desc lang="es">Las grandes orquestas y arreglos que hacían la música tan excitante: Duke Ellington, Glenn Miller, Benny Goodman, Tommy Dorsey, Henry James, Arite Shaw y muchos más.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP75(993)">
+    <title lang="es">Estándares</title>
+    <desc lang="es">Viaja a aquel tiempo, justo antes del Rock &amp; Roll. Escucha la música de las grandes bandas y las estrellas de esa era. Entonces el Jazz y el Pop eran uno y las estrellas de la radio también eran la sensación en la pista de baile.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP60(994)">
+    <title lang="es">Cocktail Lounge</title>
+    <desc lang="es">Un canal de música lounge con un toque de nostalgia. Ideal para el oyente casual que busca algo tranquilo y familiar en letras y música.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP47(995)">
+    <title lang="es">Stingray música ligera</title>
+    <desc lang="es">Para algunas melodías ligeras, relajantes y alegres, sintoniza lo mejor de la música de ambiente. Las melodías aquí son en su mayoría instrumentales, pero que no te sorprenda encontrar ocasionalmente esa canción atemporal con voces suaves.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP49(996)">
+    <title lang="es">Clásicos Para Todos</title>
+    <desc lang="es">La música clásica más amada en el mundo: el Para Elisa de Beethoven, la Apertura 1812 de Tchaikovsky, los valses de Strauss... La mejor música de los últimos 200 años en un solo lugar. Estos clásicos han sobrepasado la prueba del tiempo.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP48(997)">
+    <title lang="es">Stingray maestros del clásico</title>
+    <desc lang="es">Lo sofisticado, lo estimulante y arrebatador. Maestros del Clásico te trae conciertos, sinfonías y música de Ballet desde 1760 hasta ahora. Desde Bach hasta Bartok y Stravinsky, con énfasis en Haydn, Mozart, Beethoven, Schubert, Schumann y otros.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP50(998)">
+    <title lang="es">Stingray ópera plus</title>
+    <desc lang="es">Ya sea que seas un aficionado a la ópera o por simple curiosidad quieres descubrir el talento de los grandes tenores, la música Coral y de Ópera más conocida de los siglos XVIII y XIX, así como los recitales de los mejores intérpretes.(n)</desc>
+  </programme>
+  <programme start="20250624020000 +0000" stop="20250624060000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624060000 +0000" stop="20250624100000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624100000 +0000" stop="20250624140000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624140000 +0000" stop="20250624180000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624180000 +0000" stop="20250624220000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SMESP56(999)">
+    <title lang="es">Rock de Brasil</title>
+    <desc lang="es">Este canal presenta lo mejor de la siempre floreciente escena musical de Rock Brasilero. Este canal ofrece una poderosa mezcla de letras y un amplio espectro de influencias musicales.(n)</desc>
+  </programme>
+</tv>
