@@ -18,44 +18,48 @@ with open(radio_epg_file, 'rb') as f:
     content = f.read().lstrip()
     radio_epg = etree.fromstring(content)
 
-# Add <channel> entries from radio
+# Add <channel> entries from radio to dynamic EPG
 for element in radio_epg.findall('./channel'):
     dynamic_epg.append(element)
 
-# Prepare today date for shifting programmes
+# Prepare today’s date at midnight for shifting programme times
 today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
 
-# Parse and repeat <programme> entries for N days with fixed 90-minute duration
+# Parse and repeat <programme> entries for N days with 90-minute durations
 for programme in radio_epg.findall('./programme'):
     start_str = programme.get('start')
     channel = programme.get('channel')
 
-    # Extract only the time portion
+    # Parse time portion from start string
     start_time = datetime.strptime(start_str[:14], "%Y%m%d%H%M%S").time()
-    offset = start_str[14:]  # preserve timezone offset, e.g. +0000
+    offset = start_str[14:]  # timezone offset like +0000 or -0500
 
     for day in range(repeat_days):
         base_date = today + timedelta(days=day)
         start_dt = datetime.combine(base_date, start_time)
 
-        # Fixed duration of 90 minutes
+        # Set stop time 90 minutes after start
         stop_dt = start_dt + timedelta(minutes=90)
 
-        # If stop time is before or equal to start time (rare edge case), shift 1 day forward
+        # Handle midnight crossing: if stop <= start, add 1 day
         if stop_dt <= start_dt:
             stop_dt += timedelta(days=1)
 
+        # Create new <programme> element
         new_prog = etree.Element('programme')
         new_prog.set('start', start_dt.strftime("%Y%m%d%H%M%S") + offset)
         new_prog.set('stop', stop_dt.strftime("%Y%m%d%H%M%S") + offset)
         new_prog.set('channel', channel)
 
+        # Copy children elements like <title>, <desc> etc.
         for child in programme:
             new_prog.append(child)
 
+        # Append to dynamic EPG
         dynamic_epg.append(new_prog)
 
-# Save merged EPG
+# Save merged EPG to output file
 tree = etree.ElementTree(dynamic_epg)
 tree.write(output_file, encoding='utf-8', xml_declaration=True, pretty_print=True)
-print(f"✅ Merged EPG saved to '{output_file}' with {repeat_days} days of radio programming, each 90 minutes long, shifted to today and midnight-crossing handled.")
+
+print(f"✅ Merged EPG saved to '{output_file}' with {repeat_days} days of radio programming, each 90 minutes long.")
