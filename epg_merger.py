@@ -41,7 +41,7 @@ for programme in radio_epg.findall('./programme'):
         # Fixed duration of 90 minutes
         stop_dt = start_dt + timedelta(minutes=90)
 
-        # If stop time is before or equal to start time, add 1 day to stop_dt
+        # If stop time is before or equal to start time (rare edge case), shift 1 day forward
         if stop_dt <= start_dt:
             stop_dt += timedelta(days=1)
 
@@ -50,7 +50,6 @@ for programme in radio_epg.findall('./programme'):
         new_prog.set('stop', stop_dt.strftime("%Y%m%d%H%M%S") + offset)
         new_prog.set('channel', channel)
 
-        # Copy children elements like <title>, <desc>, etc.
         for child in programme:
             new_prog.append(child)
 
