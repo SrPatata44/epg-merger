@@ -2,8 +2,8 @@ name: Run EPG Merger and Deploy
 
 on:
   schedule:
-    - cron: '0 */12 * * *'   # Every 12 hours
-  workflow_dispatch:         # Manual trigger
+    - cron: '0 9 * * *'     # Every day at 2:00 AM Mexico time
+  workflow_dispatch:        # Manual trigger
 
 jobs:
   build:
