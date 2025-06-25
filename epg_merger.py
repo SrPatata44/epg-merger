@@ -18,61 +18,75 @@ with open(radio_epg_file, 'rb') as f:
     content = f.read().lstrip()
     radio_epg = etree.fromstring(content)
 
-# Add <channel> entries from radio to dynamic EPG, avoiding duplicates
-existing_channel_ids = {el.get('id') for el in dynamic_epg.findall('./channel')}
-for channel in radio_epg.findall('./channel'):
-    chan_id = channel.get('id')
-    if chan_id not in existing_channel_ids:
-        dynamic_epg.append(channel)
-        existing_channel_ids.add(chan_id)
+# Collect all channels and programmes separately
+channels = []
+programmes = []
 
-# Prepare today's midnight for offsetting programme times
+# Add dynamic channels and programmes
+channels.extend(dynamic_epg.findall('./channel'))
+programmes.extend(dynamic_epg.findall('./programme'))
+
+# Track existing channel ids to avoid duplicates
+existing_channel_ids = {ch.get('id') for ch in channels}
+
+# Add radio channels (avoid duplicates)
+for ch in radio_epg.findall('./channel'):
+    cid = ch.get('id')
+    if cid not in existing_channel_ids:
+        channels.append(ch)
+        existing_channel_ids.add(cid)
+
+# Prepare today's midnight for programme time calculations
 today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
 
-# Collect all channels seen in <programme>
-programme_channel_ids = set()
+# Keep track of radio programme channels (for generating missing <channel> elements)
+radio_prog_channels = set()
 
-# Repeat radio <programme> entries for N days with 90-minute durations
-for programme in radio_epg.findall('./programme'):
-    start_str = programme.get('start')
-    channel = programme.get('channel')
-    programme_channel_ids.add(channel)
+# Process radio programmes with 90-minute durations and add repeats
+for prog in radio_epg.findall('./programme'):
+    start_str = prog.get('start')
+    channel = prog.get('channel')
+    radio_prog_channels.add(channel)
 
-    # Parse start time and timezone offset
     start_time = datetime.strptime(start_str[:14], "%Y%m%d%H%M%S").time()
-    offset = start_str[14:]  # Keep the timezone offset
+    offset = start_str[14:] if len(start_str) > 14 else "+0000"
 
     for day in range(repeat_days):
         base_date = today + timedelta(days=day)
         start_dt = datetime.combine(base_date, start_time)
         stop_dt = start_dt + timedelta(minutes=90)
-
-        # Fix edge case where stop wraps to the next day
         if stop_dt <= start_dt:
             stop_dt += timedelta(days=1)
 
-        # Create new programme
         new_prog = etree.Element('programme')
         new_prog.set('start', start_dt.strftime("%Y%m%d%H%M%S") + offset)
         new_prog.set('stop', stop_dt.strftime("%Y%m%d%H%M%S") + offset)
         new_prog.set('channel', channel)
 
-        # Copy children like <title>, <desc>, etc.
-        for child in programme:
+        for child in prog:
             new_prog.append(child)
 
-        dynamic_epg.append(new_prog)
+        programmes.append(new_prog)
 
-# Auto-generate <channel> elements if missing from both EPGs
-for chan_id in programme_channel_ids - existing_channel_ids:
-    channel_el = etree.Element('channel', id=chan_id)
-    display_name = etree.Element('display-name', lang='es')
-    display_name.text = chan_id  # fallback name
-    channel_el.append(display_name)
-    dynamic_epg.append(channel_el)
+# Auto-generate missing <channel> elements for any programme channels missing a channel entry
+missing_channels = radio_prog_channels - existing_channel_ids
+for cid in missing_channels:
+    ch = etree.Element('channel', id=cid)
+    dn = etree.Element('display-name', lang='es')
+    dn.text = cid
+    ch.append(dn)
+    channels.append(ch)
+    existing_channel_ids.add(cid)
 
-# Write merged EPG to file
-tree = etree.ElementTree(dynamic_epg)
+# Build new <tv> root and append all channels and programmes in correct order
+tv_root = etree.Element('tv')
+for ch in channels:
+    tv_root.append(ch)
+for prog in programmes:
+    tv_root.append(prog)
+
+# Save merged EPG
+tree = etree.ElementTree(tv_root)
 tree.write(output_file, encoding='utf-8', xml_declaration=True, pretty_print=True)
 
 print(f"✅ Merged EPG saved to '{output_file}' with {repeat_days} days of 90-minute radio programming.")
