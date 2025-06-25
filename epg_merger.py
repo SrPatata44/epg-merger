@@ -7,8 +7,8 @@ from datetime import datetime, timedelta
 dynamic_epg_url = 'http://m3u4u.com/xml/x79znkxmpc4318qygk24'
 radio_epg_file = 'radioguide.xml'
 output_file = 'guia-izzi.xml'
-repeat_days = 3         # ⏳ Now repeats for 3 full days
-block_minutes = 240     # ⌛ 4-hour blocks instead of 90-minute
+repeat_days = 3         # ⏳ Repeat for 3 full days
+block_minutes = 240     # ⌛ 4-hour blocks
 
 # Fetch dynamic EPG from URL
 response = requests.get(dynamic_epg_url)
@@ -60,7 +60,10 @@ for prog in radio_epg.findall('./programme'):
 
             # Copy child tags (title, desc, etc.)
             for child in prog:
-                new_prog.append(copy.deepcopy(child))
+                copied = copy.deepcopy(child)
+                if copied.tag == 'desc' and copied.text:
+                    copied.text = copied.text.rstrip().removesuffix('(n)').rstrip()
+                new_prog.append(copied)
 
             programmes.append(new_prog)
 
