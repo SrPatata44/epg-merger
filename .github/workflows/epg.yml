@@ -32,7 +32,7 @@ jobs:
         run: |
           cd iptv-org
           npm ci
-          npm run grab -- --days=3 --channels=data/channels/custom-sky.xml
+          npm run grab -- --days=3 --offset=0 --channels=data/channels/custom-sky.xml
 
       - name: Run EPG merger script
         run: python epg_merger.py
