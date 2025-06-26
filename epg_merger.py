@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 # CONFIGURATION
 dynamic_epg_url = 'http://m3u4u.com/xml/x79znkxmpc4318qygk24'
 radio_epg_file = 'radioguide.xml'
-iptv_epg_file = 'iptv-org/epg/guide.xml'  # From iptv-org grab
+iptv_epg_file = 'iptv-org/guide.xml'  # From iptv-org grab
 output_file = 'guia-izzi.xml'
 repeat_days = 3         # ⏳ Repeat for 3 full days
 block_minutes = 240     # ⌛ 4-hour blocks
