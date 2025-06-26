@@ -228,3 +228,7 @@ Solo Peques = SMESP62(986)
 Sky Sports 1 = SkySports1.mx
 Sky Sports 16 = SkySports16.mx
 Sky Sports 24 = SkySports24.mx
+Canal del Congreso SD = CanaldelCongreso(Spanish).mx
+CNBC HD = CNBC(English).mx
+CNN En Español = CNNEnEspanol(Spanish).mx
+DW Latino = DWEnespanol(Spanish).mx
