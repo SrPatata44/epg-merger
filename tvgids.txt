@@ -202,3 +202,6 @@ Opera Plus = SMESP50(998)
 Rock Brasil = SMESP56(965)
 Rock En Español = SMESP52(950)
 Solo Peques = SMESP62(986)
+Sky Sports 1 = SkySports1.mx
+Sky Sports 16 = SkySports16.mx
+Sky Sports 24 = SkySports24.mx
