@@ -2,8 +2,8 @@ name: Run EPG Merger and Deploy
 
 on:
   schedule:
-    - cron: '0 9 * * *'     # Every day at 2:00 AM Mexico time
-  workflow_dispatch:        # Manual trigger
+    - cron: '0 9 * * *'     # Every day at 2:00 AM Mexico time (UTC-7)
+  workflow_dispatch:        # Allow manual run
 
 jobs:
   build:
@@ -12,16 +12,30 @@ jobs:
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v3
+        with:
+          submodules: true   # Needed to pull iptv-org submodule
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.11
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Run EPG script
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Grab EPG for Sky Sports from iptv-org
+        run: |
+          cd iptv-org
+          npm install
+          npm run grab -- --days=3 --channels=custom-sky.xml
+          cd ..
+
+      - name: Run EPG merger script
         run: python epg_merger.py
 
       - name: Deploy guia-izzi.xml to GitHub Pages
