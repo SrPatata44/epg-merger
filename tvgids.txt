@@ -209,3 +209,5 @@ Canal del Congreso SD = CanaldelCongreso(Spanish).mx
 CNBC HD = CNBC(English).mx
 CNN En Español = CNNEnEspanol(Spanish).mx
 DW Latino = DWEnespanol(Spanish).mx
+Sky One HD = SKYOne(Spanish).mx
+Sky News = SkyNews(English).es
