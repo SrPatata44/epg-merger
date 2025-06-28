@@ -290,43 +290,43 @@
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
-      <channel id="SkySports1.mx">
-    <display-name lang="es">Sky Sports 1</display-name>
+      <channel id="SkySportsLive1.mx">
+    <display-name lang="es">Sky Sports Live Event 1</display-name>
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88777/s88777_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
-  <channel id="SkySports2.mx">
-    <display-name lang="es">Sky Sports 2</display-name>
+  <channel id="SkySportsLive2.mx">
+    <display-name lang="es">Sky Sports Live Event 2</display-name>
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88788/s88788_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
-  <channel id="SkySports3.mx">
-    <display-name lang="es">Sky Sports 3</display-name>
+  <channel id="SkySportsLive3.mx">
+    <display-name lang="es">Sky Sports Live Event 3</display-name>
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88773/s88773_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
-  <channel id="SkySports4.mx">
-    <display-name lang="es">Sky Sports 4</display-name>
+  <channel id="SkySportsLive4.mx">
+    <display-name lang="es">Sky Sports Live Event 4</display-name>
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76989/s76989_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
-  <channel id="SkySports5.mx">
-    <display-name lang="es">Sky Sports 5</display-name>
+  <channel id="SkySportsLive5.mx">
+    <display-name lang="es">Sky Sports Live Event 5</display-name>
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76984/s76984_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
-  <channel id="SkySports6.mx">
-    <display-name lang="es">Sky Sports 6</display-name>
+  <channel id="SkySportsLive6.mx">
+    <display-name lang="es">Sky Sports Live Event 6</display-name>
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76986/s76986_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
-  <channel id="SkySports7.mx">
-    <display-name lang="es">SkySports 7</display-name>
+  <channel id="SkySportsLive7.mx">
+    <display-name lang="es">SkySports Live Event 7</display-name>
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76982/s76982_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
-  <channel id="SkySports8.mx">
-    <display-name lang="es">Sky Sports 8</display-name>
+  <channel id="SkySportsLive8.mx">
+    <display-name lang="es">Sky Sports Live Event 8</display-name>
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
@@ -561,36 +561,36 @@
     <title lang="es">MLB Extra Innings 8</title>
     <desc lang="es">¡El diamante està listo y la emociòn ya comenzò! Vive cada entrada y cada home run con MLB Extra Innings</desc>
   </programme>
-      <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySports1.mx">
-    <title lang="es">Sky Sports 1</title>
+      <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySportsLive1.mx">
+    <title lang="es">Sky Sports Live Event 1</title>
     <desc lang="es">Sky sports te ofrece una amplia variedad de contenido deportivo en alta definición, con programación exclusiva y en vivo para que no te pierdas ni un solo minuto de tus deportes favoritos.</desc>
   </programme>
-    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySports2.mx">
-    <title lang="es">Sky Sports 2</title>
+    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySportsLive2.mx">
+    <title lang="es">Sky Sports Live Event 2</title>
     <desc lang="es">Sky sports te ofrece una amplia variedad de contenido deportivo en alta definición, con programación exclusiva y en vivo para que no te pierdas ni un solo minuto de tus deportes favoritos.</desc>
   </programme>
-    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySports3.mx">
-    <title lang="es">Sky Sports 3</title>
+    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySportsLive3.mx">
+    <title lang="es">Sky Sports Live Event 3</title>
     <desc lang="es">Sky sports te ofrece una amplia variedad de contenido deportivo en alta definición, con programación exclusiva y en vivo para que no te pierdas ni un solo minuto de tus deportes favoritos.</desc>
   </programme>
-    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySports4.mx">
-    <title lang="es">Sky Sports 4</title>
+    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySportsLive4.mx">
+    <title lang="es">Sky Sports Live Event 4</title>
     <desc lang="es">Sky sports te ofrece una amplia variedad de contenido deportivo en alta definición, con programación exclusiva y en vivo para que no te pierdas ni un solo minuto de tus deportes favoritos.</desc>
   </programme>
-    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySports5.mx">
-    <title lang="es">Sky Sports 5</title>
+    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySportsLive5.mx">
+    <title lang="es">Sky Sports Live Event 5</title>
     <desc lang="es">Sky sports te ofrece una amplia variedad de contenido deportivo en alta definición, con programación exclusiva y en vivo para que no te pierdas ni un solo minuto de tus deportes favoritos.</desc>
   </programme>
-    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySports6.mx">
-    <title lang="es">Sky Sports 6</title>
+    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySportsLive6.mx">
+    <title lang="es">Sky Sports Live Event 6</title>
     <desc lang="es">Sky sports te ofrece una amplia variedad de contenido deportivo en alta definición, con programación exclusiva y en vivo para que no te pierdas ni un solo minuto de tus deportes favoritos.</desc>
   </programme>
-    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySports7.mx">
-    <title lang="es">Sky Sports 7</title>
+    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySportsLive7.mx">
+    <title lang="es">Sky Sports Live Event 7</title>
     <desc lang="es">Sky sports te ofrece una amplia variedad de contenido deportivo en alta definición, con programación exclusiva y en vivo para que no te pierdas ni un solo minuto de tus deportes favoritos.</desc>
   </programme>
-    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySports8.mx">
-    <title lang="es">Sky Sports 8</title>
+    <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySportsLive8.mx">
+    <title lang="es">Sky Sports Live Event 8</title>
     <desc lang="es">Sky sports te ofrece una amplia variedad de contenido deportivo en alta definición, con programación exclusiva y en vivo para que no te pierdas ni un solo minuto de tus deportes favoritos.</desc>
   </programme>
 </tv>
