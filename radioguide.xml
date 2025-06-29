@@ -330,6 +330,27 @@
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
     <url>http://www.mexico.com</url>
   </channel>
+    <channel id="MosaicoNoticias.mx">
+    <display-name lang="es">Mosaico Noticias</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76984/s76984_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="MosaicoUniversal.mx">
+    <display-name lang="es">Mosaico Universal</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76986/s76986_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="MosaicoHBO.mx">
+    <display-name lang="es">MosaicoHBO</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76982/s76982_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
+  <channel id="MosaicoDeportes.mx">
+    <display-name lang="es">Mosaico Deporte
+	s</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
+    <url>http://www.mexico.com</url>
+  </channel>
   <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP52(950)">
     <title lang="es">Rock en Español</title>
     <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
@@ -592,5 +613,17 @@
     <programme start="20250625220000 +0000" stop="20250626020000 +0000" channel="SkySportsLive8.mx">
     <title lang="es">Sky Sports Live Event 8</title>
     <desc lang="es">Sky sports te ofrece una amplia variedad de contenido deportivo en alta definición, con programación exclusiva y en vivo para que no te pierdas ni un solo minuto de tus deportes favoritos.</desc>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoNoticias.mx">
+    <title lang="es">Mosaico Noticias</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoUniversal.mx">
+    <title lang="es">Mosaico Universal Plus</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoHBO.mx">
+    <title lang="es">Mosaico HBO</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoDeportes.mx">
+    <title lang="es">Mosaico Deportes</title>
   </programme>
 </tv>
