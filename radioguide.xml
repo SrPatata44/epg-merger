@@ -2,354 +2,225 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="SMESP52(950)">
     <display-name lang="es">SMESP52(950)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/84417/s84417_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP51(951)">
     <display-name lang="es">SMESP51(951)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/84416/s84416_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP57(952)">
     <display-name lang="es">SMESP57(952)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88770/s88770_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP02(953)">
     <display-name lang="es">SMESP02(953)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76978/s76978_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP01(954)">
     <display-name lang="es">SMESP01(954)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76977/s76977_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP09(955)">
     <display-name lang="es">SMESP09(955)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76988/s76988_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP71(956)">
     <display-name lang="es">SMESP71(956)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88784/s88784_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP59(957)">
     <display-name lang="es">SMESP59(957)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88772/s88772_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP61(958)">
     <display-name lang="es">SMESP61(958)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88774/s88774_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP10(959)">
     <display-name lang="es">SMESP10(959)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76990/s76990_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP66(960)">
     <display-name lang="es">SMESP66(960)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88779/s88779_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP29(961)">
     <display-name lang="es">SMESP29(961)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77023/s77023_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP27(962)">
     <display-name lang="es">SMESP27(962)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77025/s77025_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP72(963)">
     <display-name lang="es">SMESP72(963)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88785/s88785_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP68(964)">
     <display-name lang="es">SMESP68(964)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88781/s88781_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP56(965)">
     <display-name lang="es">SMESP56(965)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP23(966)">
     <display-name lang="es">SMESP23(966)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77008/s77008_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP73(967)">
     <display-name lang="es">SMESP73(967)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88786/s88786_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP22(968)">
     <display-name lang="es">SMESP22(968)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77006/s77006_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP20(969)">
     <display-name lang="es">SMESP20(969)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77002/s77002_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP58(970)">
     <display-name lang="es">SMESP58(970)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88771/s88771_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP69(971)">
     <display-name lang="es">SMESP69(971)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88782/s88782_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP54(972)">
     <display-name lang="es">SMESP54(972)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88767/s88767_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP70(973)">
     <display-name lang="es">SMESP70(973)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88783/s88783_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP12(974)">
     <display-name lang="es">SMESP12(974)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76994/s76994_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP63(975)">
     <display-name lang="es">SMESP63(975)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88776/s88776_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP13(976)">
     <display-name lang="es">SMESP13(976)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76995/s76995_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP04(977)">
     <display-name lang="es">SMESP04(977)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76980/s76980_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP64(978)">
     <display-name lang="es">SMESP64(978)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88778/s88778_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP36(979)">
     <display-name lang="es">SMESP36(979)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77016/s77016_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
     <channel id="SMESP38(980)">
     <display-name lang="es">SMESP38(980)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77014/s77014_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP16(981)">
     <display-name lang="es">SMESP16(981)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76998/s76998_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP67(982)">
     <display-name lang="es">SMESP67(982)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88780/s88780_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP74(983)">
     <display-name lang="es">SMESP74(983)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88787/s88787_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP21(984)">
     <display-name lang="es">SMESP21(984)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77004/s77004_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP30(985)">
     <display-name lang="es">SMESP30(985)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77022/s77022_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP62(986)">
     <display-name lang="es">SMESP62(986)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88775/s88775_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP33(987)">
     <display-name lang="es">SMESP33(987)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77019/s77019_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP41(988)">
     <display-name lang="es">SMESP41(988)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77009/s77009_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP55(989)">
     <display-name lang="es">SMESP55(989)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88768/s88768_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP40(990)">
     <display-name lang="es">SMESP40(990)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77011/s77011_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP44(991)">
     <display-name lang="es">SMESP44(991)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/77003/s77003_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP65(992)">
     <display-name lang="es">SMESP65(992)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88777/s88777_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP75(993)">
     <display-name lang="es">SMESP75(993)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88788/s88788_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP60(994)">
     <display-name lang="es">SMESP60(994)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88773/s88773_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP47(995)">
     <display-name lang="es">SMESP47(995)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76989/s76989_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP49(996)">
     <display-name lang="es">SMESP49(996)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76984/s76984_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP48(997)">
     <display-name lang="es">SMESP48(997)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76986/s76986_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP50(998)">
     <display-name lang="es">SMESP50(998)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76982/s76982_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SMESP56(999)">
     <display-name lang="es">SMESP56(999)</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
     <channel id="MLBExtraInnings1.mx">
     <display-name lang="es">MLB Extra Innings 1</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88777/s88777_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="MLBExtraInnings2.mx">
     <display-name lang="es">MLB Extra Innings 2</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88788/s88788_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="MLBExtraInnings3.mx">
     <display-name lang="es">MLB Extra Innings 3</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88773/s88773_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="MLBExtraInnings4.mx">
     <display-name lang="es">MLB Extra Innings 4</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76989/s76989_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="MLBExtraInnings5.mx">
     <display-name lang="es">MLB Extra Innings 5</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76984/s76984_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="MLBExtraInnings6.mx">
     <display-name lang="es">MLB Extra Innings 6</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76986/s76986_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="MLBExtraInnings7.mx">
     <display-name lang="es">MLB Extra Innings 7</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76982/s76982_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="MLBExtraInnings8.mx">
     <display-name lang="es">MLB Extra Innings 8</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
       <channel id="SkySportsLive1.mx">
     <display-name lang="es">Sky Sports Live Event 1</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88777/s88777_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SkySportsLive2.mx">
     <display-name lang="es">Sky Sports Live Event 2</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88788/s88788_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SkySportsLive3.mx">
     <display-name lang="es">Sky Sports Live Event 3</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88773/s88773_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SkySportsLive4.mx">
     <display-name lang="es">Sky Sports Live Event 4</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76989/s76989_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SkySportsLive5.mx">
     <display-name lang="es">Sky Sports Live Event 5</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76984/s76984_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SkySportsLive6.mx">
     <display-name lang="es">Sky Sports Live Event 6</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76986/s76986_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SkySportsLive7.mx">
     <display-name lang="es">SkySports Live Event 7</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76982/s76982_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="SkySportsLive8.mx">
     <display-name lang="es">Sky Sports Live Event 8</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
     <channel id="MosaicoNoticias.mx">
     <display-name lang="es">Mosaico Noticias</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76984/s76984_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="MosaicoUniversal.mx">
     <display-name lang="es">Mosaico Universal</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76986/s76986_h3_aa.png" />
-    <url>http://www.mexico.com</url>
   </channel>
   <channel id="MosaicoHBO.mx">
-    <display-name lang="es">MosaicoHBO</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/76982/s76982_h3_aa.png" />
-    <url>http://www.mexico.com</url>
+    <display-name lang="es">Mosaico HBO</display-name>
   </channel>
   <channel id="MosaicoDeportes.mx">
-    <display-name lang="es">Mosaico Deporte
-	s</display-name>
-    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/88769/s88769_h3_aa.png" />
-    <url>http://www.mexico.com</url>
+    <display-name lang="es">Mosaico Deportes</display-name>
+  </channel>
+  <channel id="MosaicoMundoyCultura.mx">
+    <display-name lang="es">Mosaico Mundo y Cultura</display-name>
+  </channel>
+  <channel id="MosaicoEntretenimiento.mx">
+    <display-name lang="es">Mosaico Entretenimiento</display-name>
+  </channel>
+  <channel id="MosaicoInfantil.mx">
+    <display-name lang="es">Mosaico Infantil</display-name>
+  </channel>
+  <channel id="MosaicoPeliculas.mx">
+    <display-name lang="es">Mosaico Peliculas</display-name>
   </channel>
   <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP52(950)">
     <title lang="es">Rock en Español</title>
@@ -625,5 +496,17 @@
   </programme>
     <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoDeportes.mx">
     <title lang="es">Mosaico Deportes</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoMundoyCultura.mx">
+    <title lang="es">Mosaico Mundo y Cultura</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoEntretenimiento.mx">
+    <title lang="es">Mosaico Entretenimiento</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoInfantil.mx">
+    <title lang="es">Mosaico Infantil</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoPeliculas.mx">
+    <title lang="es">Mosaico Peliculas</title>
   </programme>
 </tv>

@@ -238,3 +238,7 @@ Mosaico Noticias = MosaicoNoticias.mx
 Mosaico Universal = MosaicoUniversal.mx
 MosaicoHBO = MosaicoHBO.mx
 Mosaico Deportes = MosaicoDeportes.mx
+Mosaico Mundo y Cultura = MosaicoMundoyCultura.mx
+Mosaico Entretenimiento = MosaicoEntretenimiento.mx
+MosaicoInfantil = MosaicoInfantil.mx
+Mosaico Peliculas = MosaicoPeliculas.mx
