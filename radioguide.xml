@@ -222,6 +222,12 @@
   <channel id="MosaicoPeliculas.mx">
     <display-name lang="es">Mosaico Peliculas</display-name>
   </channel>
+  <channel id="CongresoDiputados.mx">
+    <display-name lang="es">Canal del Congreso Diputados</display-name>
+  </channel>
+  <channel id="CongresoSenadores.mx">
+    <display-name lang="es">Canal del Congreso Senadores</display-name>
+  </channel>
   <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP52(950)">
     <title lang="es">Rock en Español</title>
     <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
@@ -508,5 +514,11 @@
   </programme>
     <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MosaicoPeliculas.mx">
     <title lang="es">Mosaico Peliculas</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="CongresoDiputados.mx">
+    <title lang="es">Canal del Congreso Diputados</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="CongresoSenadores.mx">
+    <title lang="es">Canal del Congreso Senadores</title>
   </programme>
 </tv>
