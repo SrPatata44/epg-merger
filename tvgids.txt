@@ -245,3 +245,7 @@ MosaicoInfantil = MosaicoInfantil.mx
 Mosaico Peliculas = MosaicoPeliculas.mx
 Canal del Congreso Diputados = CongresoDiputados.mx
 Canal del Congreso Senadores = CongresoSenadores.mx
+Mexico Al Aire Libre = MexicoAlAireLibre.mx
+Latin American Sports = LatinAmericanSports.mx
+Beisbol Latino TV = BeisbolLatino.mx
+Basket Americas TV = BasketAmericas.mx

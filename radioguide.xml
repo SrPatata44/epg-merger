@@ -228,6 +228,18 @@
   <channel id="CongresoSenadores.mx">
     <display-name lang="es">Canal del Congreso Senadores</display-name>
   </channel>
+  <channel id="LatinAmericanSports.mx">
+    <display-name lang="es">Latino American Sports</display-name>
+  </channel>
+  <channel id="MexicoAlAireLibre.mx">
+    <display-name lang="es">Mexico Al Aire Libre</display-name>
+  </channel>
+  <channel id="BeisbolLatino.mx">
+    <display-name lang="es">Beisbol Latino TV</display-name>
+  </channel>
+  <channel id="BasketAmericas.mx">
+    <display-name lang="es">Basket Americas TV</display-name>
+  </channel>
   <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="SMESP52(950)">
     <title lang="es">Rock en Español</title>
     <desc lang="es">De hispanoamérica para el mundo, el mejor rock en español desde los clásicos, pasando por los años 90 hasta cruzar el siglo con los éxitos del momento.(n)</desc>
@@ -520,5 +532,17 @@
   </programme>
     <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="CongresoSenadores.mx">
     <title lang="es">Canal del Congreso Senadores</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="LatinAmericanSports.mx">
+    <title lang="es">Latin American Sports</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="MexicoAlAireLibre.mx">
+    <title lang="es">Mexico Al Aire Libre</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="BeisbolLatino.mx">
+    <title lang="es">Beisbol Latino TV</title>
+  </programme>
+    <programme start="20250624220000 +0000" stop="20250625020000 +0000" channel="BasketAmericas.mx">
+    <title lang="es">Basket Americas TV</title>
   </programme>
 </tv>
