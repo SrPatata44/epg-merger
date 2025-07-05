@@ -249,3 +249,8 @@ Mexico Al Aire Libre = MexicoAlAireLibre.mx
 Latin American Sports = LatinAmericanSports.mx
 Beisbol Latino TV = BeisbolLatino.mx
 Basket Americas TV = BasketAmericas.mx
+RTV MAs XHGVCTDT(Spanish).mx
+Sipsse TV XHCCUTDT(Spanish).mx
+Mariavision MariaVision(Spanish).mx
+Exitos Tropicales SMESP01(954)
+Canal 44 Canal44(XHUDGTDT)(Spanish).mx
